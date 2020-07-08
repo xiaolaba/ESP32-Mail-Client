@@ -1,4 +1,15 @@
+### uses Arduino library Manager for installation, search keyword "ESP32 Mail Client" 
+
+
+
+
+
 # Mail Client Arduino Library for ESP32 v 2.1.4
+
+ 
+
+
+
 
 This library allows ESP32 to send Email with/without attachment and receive Email with/without attachment download via SMTP and IMAP servers. 
 
@@ -50,7 +61,7 @@ For library version 1.2.0 or newer, STARTTLS was supported and can be enable aut
 
 
 
-## Installing
+## Manually Installing
 
 
 Click on **Clone or download** dropdown at the top of repository, select **Download ZIP** and save file on your computer.
