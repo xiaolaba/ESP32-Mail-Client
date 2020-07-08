@@ -1,4 +1,4 @@
-### uses Arduino library Manager for installation, search keyword "ESP32 Mail Client" 
+#### uses Arduino library Manager for installation, search keyword "ESP32 Mail Client" 
 
 
 
